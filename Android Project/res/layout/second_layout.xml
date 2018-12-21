@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="@string/lesson4"
+        android:id="@+id/lesson4"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textSize="25sp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tasks4"
+        android:text="@string/task4"
+        android:layout_marginTop="48dp"
+        android:layout_below="@+id/lesson4"
+        android:layout_alignParentLeft="true"
+        android:textSize="25sp"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="@string/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="onClick"
+        android:id="@+id/back"/>
+
+
+
+
+
+</RelativeLayout>

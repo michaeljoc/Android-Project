@@ -1,0 +1,492 @@
+<resources>
+
+	<!-- NOTE: ALL TEXT HAS BEEN REMOVED AND CERTAIN QUALIFIERS DUE TO REQUEST BY EMPLOYER!!!!!!!!! -->
+
+    <string name="test1">Test1</string>
+    <string name="test2">Below this, the text will output processed data</string>
+    <string name="test3">Test3</string>
+
+    <string name="testbutton1">Test</string>
+
+
+    <string name="app_name"><b>Redacted</b></string>
+
+    <string name="listen"><b>Redacted</b></string>
+    <string name="button1"><b>Redacted</b></string>
+    <string name="button2"><b>Redacted</b></string>
+    <string name="button3"><b>Redacted</b></string>
+    <string name="button4"><b>Redacted</b></string>
+
+    <string name="back"><b>Back</b></string>
+    <string name="next"><b>Next</b></string>
+
+
+    <string name="lesson4"><b>Redacted</b></string>
+    <string name="task4">Redacted</string>
+
+    <string name="lesson3"><b>Redacted</b></string>
+    <string name="task3">Redacted</string>
+
+
+    <string name="lesson1"><b>Redacted</b></string>
+    <string name="task1">Redacted</string>
+
+    <!-- lesson1Page -->
+    <string name="lesson11"><b>Redacted</b></string>
+    <string name="task1descr"><b>Redacted</b></string>
+
+    <string name="task1descr2">Redacted</string>
+
+    <!-- l12 -->
+    <string name="t12"><b>Redacted</b></string>
+
+    <string name="t12b"><b>Redacted</b></string>
+
+    <string name="t12c">Redacted
+                    <b>Redacted</b> \n</string>
+
+    <!-- l13 -->
+    <string name="t13"><b>Redacted</b></string>
+
+    <string name="t13b"><b>Redacted</b></string>
+
+    <string name="t13c">Redacted
+        \n\n<b>Redacted</b>
+        Redacted
+        \n\n<b>Redacted</b>\n\n
+
+        Redacted</i>\n\n </string>
+
+    <!-- l14 -->
+    <string name="t14"><b>Redacted</b></string>
+
+    <string name="t14b"><b>Redacted</b></string>
+
+    <string name="t14c">Redacted</string>
+
+
+    <!-- l15 -->
+    <string name="t15"><b>Redacted</b></string>
+
+    <string name="t15b"><b>Redacted</i></string>
+
+    <string name="t15c"><b>Redacted</string>
+
+    <string name="t15d"><i>Redacted</i>\n </string>
+
+    <!-- l16 -->
+    <string name="t16"><b>Redacted</b></string>
+
+    <string name="t16b">Redacted
+    </string>
+
+    <string name="t16c"> Redacted</string>
+
+
+    <!-- lesson2page -->
+
+    <string name="l21"><b>Redacted</b></string>
+
+    <string name="l21b"><b>Redacted</b></string>
+
+    <string name="l21c">Redacted</string>
+
+    <string name="l21d"> </string>
+
+
+
+
+    <!-- l22 -->
+    <string name="l22"><b>Redacted</b></string>
+
+    <string name="l22b">Redacted</b>
+</string>
+
+    <string name="l22c">Redacted
+ </string>
+
+
+    <!-- l23 -->
+
+    <string name="l23"><b>Redacted</b></string>
+
+    <string name="l23b"><b>Redacted
+                            </string>
+
+    <string name="l23c">Redacted</b>\n</string>
+
+
+
+    <!-- l24 -->
+
+
+    <string name="l24"><b>Redacted</b></string>
+
+    <string name="l24b"><b>Redacted</b></string>
+
+    <string name="l24c">Redacted
+    </string>
+
+
+    <!-- l25 -->
+
+    <string name="l25"><b>Redacted</b></string>
+
+    <string name="l25b"><b>Redacted</string>
+
+    <string name="l25c"><b>RedactedRedacted </string>
+
+    <!-- l26 -->
+
+    <string name="l26"><b>Redacted</b></string>
+
+    <string name="l26b"><b>Redacted</string>
+
+    <string name="l26c"><b>Redacted
+        </string>
+
+    <!-- l27 -->
+
+    <string name="l27"><b>Redacted</b></string>
+
+    <string name="l27b"><b>Redacted</string>
+
+    <string name="l27c"> <b>Redacted\n\n</string>
+
+
+
+
+
+    <!-- l28 -->
+
+    <string name="l28"><b>Redacted</b></string>
+
+    <string name="l28b"><b>Redacted</b> </string>
+
+    <string name="l28c"> • <i>Redacted</i> </string>
+
+    <string name="l28d">Redacted
+</string>
+
+    <string name="l28e"><b>Redacted</b></string>
+
+    <string name="l28f">Redacted
+    </string>
+
+
+
+
+    <!-- l29 -->
+
+    <string name="l29"><b>Redacted</b></string>
+
+    <string name="l29b"><b>Redacted</b></string>
+
+    <string name="l29c"><i>Redacted</i>
+ </string>
+
+    <!-- l210 -->
+
+    <string name="l210"><b>Redacted</b></string>
+
+    <string name="l210b">•Redacted
+\n</string>
+
+    <string name="l210c">Redacted
+\n </string>
+
+    <string name="l210d">Redacted</string>
+
+
+    <!-- l211 -->
+
+    <string name="l211"><b>Redacted</b></string>
+
+    <string name="l211b">Redacted
+</string>
+
+    <string name="l211c">Redacted
+ </string>
+
+    <string name="l211d">Redacted
+ </string>
+
+    <string name="l211e">Redacted
+ </string>
+
+    <string name="l211f">Redacted  \n</string>
+
+
+
+    <!-- l212 -->
+
+    <string name="l212"><b>Redacted</b></string>
+
+    <string name="l212b"><i>Redacted</i>
+</string>
+
+    <string name="l212c"><b><b></b></b><b></b></string>
+
+    <!-- l213 -->
+
+    <string name="l213"><bRedacted</b></b></string>
+
+    <string name="l213b"><i>Redacted</i></string>
+
+    <string name="l213c">
+	Redacted</string>
+
+    <!-- l214 -->
+
+    <string name="l214"><b>Redacted</b></string>
+
+    <string name="l214b"><i>Redacted</i></string>
+
+    <string name="l214c">
+	Redacted</string>
+
+
+<!-- Note: Third Lesson is 11 pages, from page 23 to 33 -->
+
+    <!-- l31 -->
+
+    <string name="l31"><b>Redacted</b>\n
+        Redacted </string>
+
+    <string name="l31b"><b>Redacted</b></string>
+
+    <string name="l31c">Redacted </string>
+
+
+
+    <!-- l32 -->
+
+    <string name="l32"><b>Redacted</b></string>
+
+    <string name="l32b">•Redacted</string>
+
+    <string name="l32c">Redacted </string>
+
+
+
+    <!-- l33 -->
+
+    <string name="l33"><b>Redacted</b> </string>
+
+    <string name="l33b">Redacted</i></b></string>
+
+    <string name="l33c"><b>SRedacted
+
+    </string>
+
+
+    <!-- l34 -->
+
+    <string name="l34"><b>Redacted </b></string>
+
+    <string name="l34b">•Redacted</i>
+
+</string>
+
+    <string name="l34c">
+        Redacted
+    </string>
+
+    <!-- l35 -->
+
+    <string name="l35"><b>Redacted</b></string>
+
+    <string name="l35b"><b>Redacted
+    </string>
+
+    <string name="l35c"><b>Redacted
+    </string>
+
+
+    <!-- l36 -->
+
+    <string name="l36">Redacted</string>
+
+    <string name="l36b"><b>Redacted</b>\n\n
+Redacted
+</string>
+
+    <string name="l36c"> Redacted</string>
+
+
+    <!-- l37 -->
+
+    <string name="l37"><b>Redacted </b></string>
+
+    <string name="l37b">Redacted</string>
+
+    <string name="l37c"><b>Redacted</string>
+
+    <!-- l38 -->
+
+    <string name="l38"><b>Redacted </b></string>
+
+    <string name="l38b">•Redacted</string>
+
+
+
+    <!-- l39 -->
+
+    <string name="l39"><b>Redacted</b></string>
+
+    <string name="l39b">Redacted</string>
+
+
+
+
+    <!-- l310 -->
+
+    <string name="l310"><b>Redacted </b></string>
+
+    <string name="l310b"><i>Redacted</i></string>
+
+    <string name="l310c">Redacted </string>
+
+
+    <!-- l311 -->
+
+    <string name="l311"><b>Redacted</b> </string>
+
+    <string name="l311b"><i>Redacted</i></string>
+
+    <string name="l311c">Redacted </string>
+
+
+
+
+
+
+    <!-- Note: Fourth Lesson is 14 pages, from page 33 to 47 -->
+
+
+    <!-- l41 -->
+
+    <string name="l41"><b>Redacted</b>
+
+        Redacted</b></string>
+
+    <string name="l41b"><b>Redacted</b></string>
+
+    <string name="l41c">Redacted </string>
+
+
+    <!-- l42 -->
+
+    <string name="l42"><b>Redacted</b></string>
+
+    <string name="l42b"><b>Redacted</b> </string>
+
+    <string name="l42c"><b>Redacted </string>
+
+    <!-- l43 -->
+
+    <string name="l43"><b>Redacted</b></string>
+
+    <string name="l43b">Redacted</string>
+
+    <string name="l43c">Redacted </string>
+
+    <!-- l44 -->
+
+    <string name="l44"><b>Redacted</b></string>
+
+    <string name="l44b"><b>Redacted</b></string>
+
+    <string name="l44c">Redacted</string>
+
+    <!-- l45 -->
+
+    <string name="l45"><b>Redacted</b></string>
+
+    <string name="l45b"><b>Redacted?</b></string>
+
+    <string name="l45c">Redacted</i>\n
+
+    </string>
+
+    <!-- l46 -->
+
+    <string name="l46"><b>Redacted</b></string>
+
+    <string name="l46b"><b>Redacted </string>
+
+    <string name="l46c"><b>Redacted</string>
+
+    <!-- l47 -->
+
+    <string name="l47"><b>Redacted</b></string>
+
+    <string name="l47b"><b>Redacted   </string>
+
+    <string name="l47c"><b>Redacted</string>
+
+    <!-- l48 -->
+
+    <string name="l48"><b>Redacted </b></string>
+
+    <string name="l48b">Redacted</string>
+
+
+
+    <!-- l49 -->
+
+    <string name="l49"><b>Redacted</b></string>
+
+    <string name="l49b"><b>Redacted</string>
+
+
+
+    <!-- l410 -->
+
+    <string name="l410"><b>Redacted</b></string>
+
+    <string name="l410b"><b>WRedacted
+</string>
+
+    <string name="l410c"><b>Redacted</string>
+
+    <!-- l411 -->
+
+    <string name="l411"><b>Redacted</b></string>
+
+    <string name="l411b"><b>Redacted</b></string>
+
+    <string name="l411c">Redacted </string>
+
+    <!-- l412 -->
+
+    <string name="l412"><b>Redacted</b></string>
+
+    <string name="l412b">•Redacted</string>
+
+
+    <!-- l413 -->
+
+    <string name="l413"><b>Redacted</b></string>
+
+    <string name="l413b"><i>Redacted</i></string>
+
+    <string name="l413c">Redacted
+ </string>
+
+    <!-- l414 -->
+
+    <string name="l414"><i>Redacted</i></string>
+
+    <string name="l414b"><i>Redacted</i></string>
+
+    <string name="l414c">Redacted </string>
+
+
+
+
+
+
+
+
+</resources>

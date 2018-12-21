@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    <!-- <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     WE WILL MAKE EACH PAGE WHEN IT HAS BABY LESSON AND TIME LINE LIKE 1-2 WEEK.-->
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout01"
+        android:layout_width="fill_parent"
+        android:layout_height="638dp" >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="@string/l26"
+            android:id="@+id/l26"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:textSize="25sp"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/l26b"
+            android:text="@string/l26b"
+            android:textSize="25sp"
+            android:layout_marginTop="35dp"
+            android:layout_below="@+id/l26"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/l26c"
+            android:text="@string/l26c"
+            android:textSize="25sp"
+            android:layout_below="@+id/l26b"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="37dp" />
+
+
+
+
+
+
+        <Button
+            android:text="@string/next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:id="@+id/nextl26"
+
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="82dp"
+            android:layout_marginEnd="82dp"
+            android:layout_below="@+id/l26c"/>
+
+
+        <Button
+            android:text="@string/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="onClick"
+            android:id="@+id/backl26"
+            android:layout_marginRight="40dp"
+            android:layout_marginEnd="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@+id/nextl26"
+            android:layout_toStartOf="@+id/nextl26" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </RelativeLayout>
+
+
+</ScrollView>
